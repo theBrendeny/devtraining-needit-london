@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="asmt_metric_category">
+    <asmt_metric_category action="INSERT_OR_UPDATE">
+        <create_stakeholders>false</create_stakeholders>
+        <description/>
+        <details/>
+        <filter table="asmt_metric_type">sys_id=f7764ab8db413300f0701120399619f7^EQ<item endquery="false" field="sys_id" goto="false" newquery="false" operator="=" or="false" value="f7764ab8db413300f0701120399619f7"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <metric_type display_value="Test Survey 2">f7764ab8db413300f0701120399619f7</metric_type>
+        <name>Test Survey 2</name>
+        <order>100</order>
+        <roles/>
+        <scoring_type>percent</scoring_type>
+        <sys_class_name>asmt_metric_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-24 01:33:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b3768eb8db413300f070112039961991</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Test Survey 2</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>asmt_metric_category_b3768eb8db413300f070112039961991</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-24 01:33:10</sys_updated_on>
+        <table>asmt_metric_type</table>
+        <total_metrics>4</total_metrics>
+        <weight>10</weight>
+    </asmt_metric_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=b3768eb8db413300f070112039961991"/>
+</record_update>
